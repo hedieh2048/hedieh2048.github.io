@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 6
-date: 2014-07-15
-img: submarine.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+modal-id: 1
+date: 2023-06-15
+img: data-dashboard.png
+alt: Data Visualization Dashboard
+project-date: June 2023
+client: Analytics Company
+category: Data Science
+description: A data visualization dashboard that presents complex datasets in interactive charts and graphs, enabling data-driven decision-making.
 ---
