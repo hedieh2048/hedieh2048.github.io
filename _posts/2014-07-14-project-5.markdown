@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 5
-date: 2014-07-14
-img: safe.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+modal-id: 2
+date: 2023-05-20
+img: ai-chatbot.png
+alt: AI Chatbot System
+project-date: May 2023
+client: Tech Startup
+category: Artificial Intelligence
+description: An AI-powered chatbot capable of handling customer inquiries, providing product recommendations, and automating support tasks for businesses.
 ---
